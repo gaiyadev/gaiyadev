@@ -24,11 +24,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a startup for myself.
-- 🌱 I’m currently learning how to be a versitile and dynamic Web and Mobile Developer.
-- 👯 I’m looking to collaborate on on tools that would involve using real world data to solve real world problems and add more to my bank balance.
+- 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
+- 👯 I’m looking to collaborate on on any project that would involve using real world data to solve real world problems and add more to my bank balance.
 - 🤔 I’m looking for help with how to make the billions at a very young age ...
 - 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
-- 📫 How to reach me: ...
+- 📫 How to reach me: Check me o all my handles above.
 - 😄 Pronouns: Him/He...
 - ⚡ Fun fact: i am introvert and i love music (Hip Pop)...
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
 
 <a href="https://github.com/gaiyadev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaiyadev&theme=light&hide_langs_below=1" />
