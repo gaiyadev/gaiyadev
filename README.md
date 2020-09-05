@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaiya Mathias Obed, a full Stack Javascript Developer. I'm passionate about Development, teaching and writing clean readable code.
+### Hi there 👋 I'm Gaiya Mathias Obed, a full Stack self taught Javascript and Flutter Developer. I'm passionate about Development, teaching and writing clean readable code.
 
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,8 +16,6 @@
 <a href="https://www.facebook.com/gaiyam.obed/">
   <img align="left" alt="Obed's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
 <br/>
 <br/>
 
@@ -25,9 +23,9 @@
 - 🔭 I’m currently working on a startup for myself.
 - 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
 - 👯 I’m looking to collaborate on on any project that would involve using real world data to solve real world problems and add more to my bank balance.
-- 🤔 I’m looking for help with how to make the billions at a very young age ...
+- 🤔 I’m looking for help on how to make the billions at a very young age ...
 - 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
-- 📫 How to reach me: Check me o all my handles above.
+- 📫 How to reach me: Check me on all my handles above.
 - 😄 Pronouns: Him/He...
 - ⚡ Fun fact: i am introvert and i love music (Hip Pop)...
 
