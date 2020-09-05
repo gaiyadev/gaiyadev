@@ -50,5 +50,8 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaiyadev&show_icons=true&theme=light&line_height=27" alt="gaiyadev's github stats"/>
 </a>
 
-
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 <!--![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)-->
