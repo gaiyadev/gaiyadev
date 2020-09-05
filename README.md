@@ -3,7 +3,7 @@
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/gaiyaobed">
+<a href="https://linkedin.com/in/obed-mathias-gaiya-128467180">
   <img align="left" alt="Obed's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/gaiyadev">
@@ -50,6 +50,6 @@
 [![Twitter: gaiyaobed](https://img.shields.io/twitter/follow/gaiyaobed?style=social)](https://twitter.com/gaiyaobed)
 [![GitHub gaiyadev](https://img.shields.io/github/followers/gaiyadev?label=follow&style=social)](https://github.com/gaiyadev)
 [![website](https://img.shields.io/badge/gaiyaobed-blue?style=flat-square&logo=google-chrome)](https://gaiyaobed.com.ng/)
-[![Linkedin: gaiyaobed](https://img.shields.io/badge/-gaiyaobed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obed-mathias-gaiya-128467180//)](https://www.linkedin.com/in/obed-mathias-gaiya-128467180//)
+[![Linkedin: gaiyaobed](https://img.shields.io/badge/-gaiyaobed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obed-mathias-gaiya-128467180/)](https://www.linkedin.com/in/obed-mathias-gaiya-128467180/)
 
 <!--![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)-->
