@@ -3,7 +3,7 @@
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/obed-mathias-gaiya-128467180">
+<a href="https://www.linkedin.com/in/obed-m-gaiya-128467180/">
   <img align="left" alt="Obed's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/gaiyadev">
