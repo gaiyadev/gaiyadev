@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on a startup for myself.
 - 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
-- 👯 I’m looking to collaborate on on any project that would involve using real world data to solve real world problems and add more to my bank balance.
+- 👯 I’m looking to collaborate on any project that would involve using real world data to solve real world problems and add more to my bank balance.
 - 🤔 I’m looking for help on how to make the billions at a very young age .
 - 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
 - 📫 How to reach me: Check me on all my handles above.
