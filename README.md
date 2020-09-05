@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaiyadev&show_icons=true&theme=light&line_height=27" alt="gaiyadev's github stats"/>
 </a>
 
-[![Twitter: gaiyaobed](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
+[![Twitter: gaiyaobed](https://img.shields.io/twitter/follow/gaiyaobed?style=social)](https://twitter.com/gaiyaobed)
 [![Linkedin: gaiyaobed](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaiyaobed/)](https://www.linkedin.com/in/gaiyaobed/)
 [![GitHub gaiyadev](https://img.shields.io/github/followers/gaiyadev?label=follow&style=social)](https://github.com/gaiyadev)
 [![website](https://img.shields.io/badge/PortfolioWebsite-gaiyaobed.com.ng-2648ff?style=flat-square&logo=google-chrome)](https://gaiyaobed.com.ng/)
