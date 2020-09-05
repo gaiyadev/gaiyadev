@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 [![Twitter: gaiyaobed](https://img.shields.io/twitter/follow/gaiyaobed?style=social)](https://twitter.com/gaiyaobed)
 [![GitHub gaiyadev](https://img.shields.io/github/followers/gaiyadev?label=follow&style=social)](https://github.com/gaiyadev)
 [![website](https://img.shields.io/badge/gaiyaobed-2648ff?style=flat-square&logo=google-chrome)](https://gaiyaobed.com.ng/)
-[![Linkedin: gaiyaobed](https://img.shields.io/badge/-obed-mathias-gaiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obed-mathias-gaiya/)](https://www.linkedin.com/in/obed-mathias-gaiya/)
+[![Linkedin: gaiyaobed](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obed-mathias-gaiya/)](https://www.linkedin.com/in/obed-mathias-gaiya/)
 
 <!--![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)-->
