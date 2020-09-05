@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Gaiya Mathias Obed, a full stack Javascript Developer. I'm passionate about Development, teaching and writing clean readable code.
-
-
-
+### Hi there 👋 I'm Gaiya Mathias Obed, a full Stack Javascript Developer. I'm passionate about Development, teaching and writing clean readable code.
 
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
