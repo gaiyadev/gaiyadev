@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gaiya Mathias Obed, a full stack Javascript Developer. I'm passionate about Development, teaching and writing clean readable code.
 
-<!--
+
 **gaiyadev/gaiyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Him/He...
 - ⚡ Fun fact: i am introvert and i love music (Hip Pop)...
--->
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)
+
+![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)
