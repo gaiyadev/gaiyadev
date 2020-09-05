@@ -21,7 +21,6 @@
 <br/>
 <br/>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a startup for myself.
 - 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
