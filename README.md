@@ -27,7 +27,7 @@
 - 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
 - 📫 How to reach me: Check me on all my handles above.
 - 😄 Pronouns: Him/He.
-- ⚡ Fun fact: i am introvert and i love music.
+- ⚡ Fun fact: i am an introvert and i love music.
 
 **Languages and Tools:**  
 
