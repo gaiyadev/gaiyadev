@@ -46,7 +46,7 @@
 
 
 <a href="https://github.com/gaiyadev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaiyadev&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaiyadev&theme=light&hide_langs_below=2" />
 </a>
 <a href="https://github.com/gaiyadev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaiyadev&show_icons=true&theme=light&line_height=27" alt="gaiyadev's github stats"/>
