@@ -27,7 +27,7 @@
 - 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
 - 📫 How to reach me: Check me on all my handles above.
 - 😄 Pronouns: Him/He.
-- ⚡ Fun fact: i am an introvert and i love rap music.
+- ⚡ Fun fact: i am an introvert and i love to rap.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
