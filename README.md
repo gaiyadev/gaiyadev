@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaiya M. Obed, a self taught Software Developer. I'm madly in love with JavaScript and it's frameworks. I'm passionate about Development, Teaching and writing clean and readable codes.
+### Hi there 👋 I'm Obed, a self taught Software Engineer. I'm madly in love with JavaScript and it's frameworks. I'm passionate about Development, Teaching and writing clean and readable codes.
 
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,14 +21,14 @@
 
 
 - 🔭 I’m currently working on a startup for myself.
-- 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
+- 🌱 I’m currently learning how to be a versatile and dynamic Software Engineer.
 - 👯 I’m looking to collaborate on any project that would involve using real world data to solve real world problems and add more money to my bank account.
 - 🤔 I’m looking for help on how to make the billions at a very young age .
-- 💬 Ask me about Javascript, .NET Core or PHP if I don't know it, I would get back to you.
+- 💬 Ask me about System Design, if I don't know it, I would get back to you.
 - 📫 How to reach me: Check me on all my handles above.
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: i am an introvert and i love to rapping.
-- 🔨 Buiding @ [obedjs](https://gaiyadev.github.io/obedjs-docs)
+- 🔨 Buiding @ [Zuka](https://getzuka.co)
 
 
 **Languages and Tools:**  
